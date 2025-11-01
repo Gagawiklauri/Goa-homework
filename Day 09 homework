@@ -1,0 +1,8 @@
+x="1"
+while "20>x"
+    print(x+1)
+    
+
+text="*"=5
+while 6>="*"
+    print(*+1)
